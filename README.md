@@ -1,9 +1,10 @@
 # AgriSight
 AgriSight is an AI-powered crop disease detection website designed to help Zimbabwean farmers identify maize and tomato leaf diseases early using image recognition and TensorFlow.js. The platform provides multilingual farmer-friendly advice in English, Shona, and Ndebele to support sustainable farming and improve food security.
+
 ![Homepage](homepage.png)
 ![Results](results.png)
 
-How It Works
+##How It Works
 
 AgriSight uses AI-powered image recognition to detect diseases in maize and tomato leaves. Users can upload an image or use their camera to scan a crop leaf. The AI model analyzes the image and predicts whether the crop is healthy or affected by disease.
 
